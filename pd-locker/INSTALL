@@ -1,0 +1,34 @@
+🚔 PD Locker System Added
+Version: 1.3.0
+Date: April 21, 2025
+
+🎉 New Update: Custom PD Locker System
+The Police Department now has its very own locker system for officers to securely store gear, evidence, and equipment. This new feature allows for a more organized and secure method of handling items related to law enforcement operations.
+
+🔹 What’s New:
+Unique lockers for each officer based on their citizen ID.
+
+Access control based on the officer’s job, ensuring only authorized personnel can open the lockers.
+
+Secure storage for police gear, evidence, and other important items.
+
+🛠️ Changelog:
+Added PD locker system with access via the new target zones.
+
+Officers can access their personal lockers at designated locations around the station.
+
+Integrated with the inventory system to manage locker contents.
+
+🔜 Future Plans:
+Locker customization options (name, label, etc.).
+
+Additional features for evidence handling and better integration with the legal system.
+
+⚙️ Installation:
+Pull the latest changes from this repo.
+
+Make sure the QBCore framework is properly set up with the qb-target and codem-inventory resources.
+
+Restart your server for changes to take effect.
+
+Let me know if you need any specific setup instructions or want to link to related issues or enhancements!
